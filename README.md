@@ -58,16 +58,9 @@
 
 ## Ouvindo no Spotify
 
-<!-- Para ativar o player com ultima musica ouvida:
-     1. Acesse https://spotify-github-profile.kittinanx.com
-     2. Login com humbertoribeironeto93@gmail.com
-     3. Copie o UID gerado e substitua abaixo -->
-
 <div align="center">
 
-[![Spotify — Solifican12](https://img.shields.io/badge/Spotify-Solifican12-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/search/Solifican12)
-
-[![Perfil Beto no Spotify](https://img.shields.io/badge/Perfil%20Spotify-Beto-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/humbertoribeironeto93)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31sjtv36nqxrdj3hokpb3zueekhy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=2f80ed&bar_color_cover=true)](https://open.spotify.com/user/31sjtv36nqxrdj3hokpb3zueekhy)
 
 </div>
 
