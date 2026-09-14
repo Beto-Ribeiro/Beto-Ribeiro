@@ -29,44 +29,12 @@ Como **Product Owner e Agilista**, lidero projetos que vão de monitoramento cli
 
 ## Stack técnica
 
-<div align="center">
-
-<table>
-<tr>
-<th align="center">Área</th>
-<th align="center">Tecnologias</th>
-</tr>
-<tr>
-<td align="center"><b>Linguagens</b></td>
-<td align="center">TypeScript, JavaScript, Python, Dart, Java, C#, PHP</td>
-</tr>
-<tr>
-<td align="center"><b>Mobile</b></td>
-<td align="center">Flutter, React Native</td>
-</tr>
-<tr>
-<td align="center"><b>Web</b></td>
-<td align="center">React, Next.js, Vue.js, Node.js</td>
-</tr>
-<tr>
-<td align="center"><b>Backend & Dados</b></td>
-<td align="center">PostgreSQL, PostGIS, MySQL, Supabase, Firebase, Prisma</td>
-</tr>
-<tr>
-<td align="center"><b>IA</b></td>
-<td align="center">Google Gemini API, Claude, Computer Vision, Ollama, NotebookLM</td>
-</tr>
-<tr>
-<td align="center"><b>Produto & Processos</b></td>
-<td align="center">Scrum, Kanban, Jira, User Stories, Backlog Management</td>
-</tr>
-<tr>
-<td align="center"><b>Infra & Ferramentas</b></td>
-<td align="center">Docker, Git, REST APIs, Postman</td>
-</tr>
-</table>
-
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
 ---
 
