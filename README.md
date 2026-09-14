@@ -6,7 +6,7 @@
 Desenvolvimento de software multiplataforma, integração de Inteligência Artificial e soluções ágeis para problemas reais.
 
 <a href="https://github.com/Beto-Ribeiro">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=100&size=48&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Software+Engineer;Product+Owner;Co-founder"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=200&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Software+Engineer;Product+Owner;Co-founder"/>
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humberto-ribeiro-swe)
