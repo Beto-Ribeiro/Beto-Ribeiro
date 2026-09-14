@@ -1,9 +1,26 @@
 <div align="center">
 
-<h1>Humberto Ribeiro</h1>
+<!-- ════════════════════════════════════════════════════════════
+     NOME — Grande e chamativo (Fix 5)
+     ════════════════════════════════════════════════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=68&duration=3500&pause=99999&color=2F80ED&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+Humberto+Ribeiro" alt="Humberto Ribeiro" />
 
+</div>
+
+<br>
+
+<!-- ════════════════════════════════════════════════════════════
+     LAYOUT PRINCIPAL — Info + Dashboard GitHub (Fix 1 & 5)
+     ════════════════════════════════════════════════════════════ -->
+<table align="center" width="100%">
+<tr>
+<td width="55%" valign="middle">
+
+<div align="center">
+
+<!-- Fix 1: URL com encoding correto para caracteres especiais (á → %C3%A1, ê → %C3%AA) -->
 <a href="https://github.com/Beto-Ribeiro">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=1200&color=2F80ED&center=true&vCenter=true&width=860&lines=Software+Engineer;Product+Owner;Co-founder+%40+Astrotech+Systems;Arquitetando+sistemas+escaláveis;Integrando+Inteligência+Artificial;Construindo+o+futuro" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=1200&color=2F80ED&center=true&vCenter=true&width=520&lines=Software+Engineer;Product+Owner;Co-founder+%40+Astrotech+Systems;Arquitetando+sistemas+escal%C3%A1veis;Integrando+Intelig%C3%AAncia+Artificial;Construindo+o+futuro" alt="Typing animation" />
 </a>
 
 <br/>
@@ -15,7 +32,39 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humberto-ribeiro-swe)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Beto-Ribeiro)
 
+<br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Beto-Ribeiro&color=2F80ED&style=for-the-badge&label=VISUALIZAÇÕES)
+
+</div>
+
+</td>
+<td width="45%" valign="middle" align="center">
+
+<!-- Fix 5: Dashboard interativo com stats do GitHub (Total Stars, Commits, PRs, Issues, Contributed to) -->
+<a href="https://github.com/Beto-Ribeiro">
+  <img src="https://github-readme-stats.vercel.app/api?username=Beto-Ribeiro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=2F80ED&icon_color=2F80ED&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats de Humberto Ribeiro" width="100%" />
+</a>
+
+<a href="https://github.com/Beto-Ribeiro">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beto-Ribeiro&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="100%" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎵 Ouvindo no Spotify
+
+<!-- Fix 6: Card animado do Spotify (requer autorização em spotify-github-profile.kittinanx.com) -->
+<!-- Nota: caso o card não apareça, acesse https://spotify-github-profile.kittinanx.com, -->
+<!-- faça login com humbertoribeironeto93@gmail.com e atualize o uid abaixo com seu ID real -->
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/top?uid=humbertoribeironeto93&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=2f80ed&bar_color_cover=false)](https://open.spotify.com/user/humbertoribeironeto93)
 
 </div>
 
@@ -33,13 +82,9 @@ Como **Product Owner e Agilista**, participo da condução de projetos que envol
 
 ## Atividade no GitHub
 
+<!-- Fix 2: Removido o gráfico ghchart.rshah.org (azul/branco). Mantido apenas o Galaga -->
+
 <div align="center">
-
-<a href="https://github.com/Beto-Ribeiro">
-  <img src="https://ghchart.rshah.org/2F80ED/Beto-Ribeiro" alt="Contribuições do GitHub de Humberto Ribeiro" width="95%">
-</a>
-
-<br><br>
 
 <a href="https://github.com/Beto-Ribeiro">
   <picture>
@@ -57,23 +102,16 @@ Como **Product Owner e Agilista**, participo da condução de projetos que envol
 
 **Linguagens e Frameworks**
 
+<!-- Fix 3: Ícones redondos via skillicons.dev para Linguagens e Frameworks -->
+<!-- As demais seções mantêm shields.io retangulares para diferenciação visual -->
+
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,py,dart,java,cs,php,react,nextjs,vue,flutter,nodejs,express&perline=7" alt="Linguagens e Frameworks" />
 
 </div>
+
+<br>
 
 **Plataformas e Ferramentas**
 
@@ -218,8 +256,9 @@ Aplicativo desenvolvido em FlutterFlow para conscientização e suporte ao trata
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+<!-- Fix 4: Removido cache_seconds que causava timeouts; URL limpa e direta -->
 <a href="https://github.com/Beto-Ribeiro/EatWise-TCC">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Beto-Ribeiro&repo=EatWise-TCC&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Repositório EatWise-TCC">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Beto-Ribeiro&repo=EatWise-TCC&theme=github_dark&hide_border=true&show_owner=true" alt="Repositório EatWise-TCC">
 </a>
 
 ---
@@ -234,8 +273,9 @@ Solução de software desenvolvida para a **Associação Somos do Bem** durante 
 ![Requirements](https://img.shields.io/badge/Requirements-2F80ED?style=flat-square)
 ![Agile](https://img.shields.io/badge/Agile-000000?style=flat-square)
 
+<!-- Fix 4: Removido cache_seconds que causava timeouts; URL limpa e direta -->
 <a href="https://github.com/Beto-Ribeiro/fic2026-fatectaubate-focus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Beto-Ribeiro&repo=fic2026-fatectaubate-focus&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Repositório Somos do Bem - FIC 2026">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Beto-Ribeiro&repo=fic2026-fatectaubate-focus&theme=github_dark&hide_border=true&show_owner=true" alt="Repositório Somos do Bem - FIC 2026">
 </a>
 
 ---
