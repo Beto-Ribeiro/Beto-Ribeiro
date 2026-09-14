@@ -3,7 +3,7 @@
 <!-- ════════════════════════════════════════════════════════════
      NOME — Grande e chamativo (Fix 5)
      ════════════════════════════════════════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=68&duration=3500&pause=99999&color=2F80ED&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+Humberto+Ribeiro" alt="Humberto Ribeiro" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=68&duration=3500&pause=99999&color=2F80ED&center=true&vCenter=true&width=1000&lines=Humberto+Ribeiro" alt="Humberto Ribeiro" />
 
 </div>
 
@@ -43,7 +43,7 @@
 
 <!-- Fix 5: Dashboard interativo com stats do GitHub (Total Stars, Commits, PRs, Issues, Contributed to) -->
 <a href="https://github.com/Beto-Ribeiro">
-  <img src="https://github-readme-stats.vercel.app/api?username=Beto-Ribeiro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=2F80ED&icon_color=2F80ED&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats de Humberto Ribeiro" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Beto-Ribeiro&show_icons=true&theme=github_dark&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="100%" />
 </a>
 
 <a href="https://github.com/Beto-Ribeiro">
@@ -56,15 +56,18 @@
 
 ---
 
-## 🎵 Ouvindo no Spotify
+## Ouvindo no Spotify
 
-<!-- Fix 6: Card animado do Spotify (requer autorização em spotify-github-profile.kittinanx.com) -->
-<!-- Nota: caso o card não apareça, acesse https://spotify-github-profile.kittinanx.com, -->
-<!-- faça login com humbertoribeironeto93@gmail.com e atualize o uid abaixo com seu ID real -->
+<!-- Para ativar o player com ultima musica ouvida:
+     1. Acesse https://spotify-github-profile.kittinanx.com
+     2. Login com humbertoribeironeto93@gmail.com
+     3. Copie o UID gerado e substitua abaixo -->
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/top?uid=humbertoribeironeto93&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=2f80ed&bar_color_cover=false)](https://open.spotify.com/user/humbertoribeironeto93)
+[![Spotify — Solifican12](https://img.shields.io/badge/Spotify-Solifican12-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/search/Solifican12)
+
+[![Perfil Beto no Spotify](https://img.shields.io/badge/Perfil%20Spotify-Beto-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/humbertoribeironeto93)
 
 </div>
 
