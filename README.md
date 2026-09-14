@@ -1,16 +1,21 @@
 <div align="center">
 
-# Humberto Ribeiro
-### Software Engineer · Product Owner · Co-founder @ Astrotech Systems
-
-Desenvolvimento de software multiplataforma, integração de Inteligência Artificial e soluções ágeis para problemas reais.
+<h1>Humberto Ribeiro</h1>
 
 <a href="https://github.com/Beto-Ribeiro">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=200&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Software+Engineer;Product+Owner;Co-founder"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=1200&color=2F80ED&center=true&vCenter=true&width=860&lines=Software+Engineer;Product+Owner;Co-founder+%40+Astrotech+Systems;Arquitetando+sistemas+escaláveis;Integrando+Inteligência+Artificial;Construindo+o+futuro" alt="Typing animation" />
 </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humberto-ribeiro-swe)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Beto-Ribeiro)
+<br/>
+
+<p>Desenvolvimento de software multiplataforma, integração de Inteligência Artificial e soluções ágeis para problemas reais.</p>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humberto-ribeiro-swe)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Beto-Ribeiro)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Beto-Ribeiro&color=2F80ED&style=for-the-badge&label=VISUALIZAÇÕES)
 
 </div>
 
@@ -31,14 +36,18 @@ Como **Product Owner e Agilista**, participo da condução de projetos que envol
 <div align="center">
 
 <a href="https://github.com/Beto-Ribeiro">
+  <img src="https://ghchart.rshah.org/2F80ED/Beto-Ribeiro" alt="Contribuições do GitHub de Humberto Ribeiro" width="95%">
+</a>
+
+<br><br>
+
+<a href="https://github.com/Beto-Ribeiro">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Beto-Ribeiro/Beto-Ribeiro/output/galaga-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Beto-Ribeiro/Beto-Ribeiro/output/galaga-contribution-graph.svg">
     <img src="https://raw.githubusercontent.com/Beto-Ribeiro/Beto-Ribeiro/output/galaga-contribution-graph.svg" alt="Gráfico de contribuições em estilo Galaga" width="95%">
   </picture>
 </a>
-
-<p><sub>Minha atividade de commits representada em um arcade no estilo Galaga.</sub></p>
 
 </div>
 
@@ -194,9 +203,7 @@ Sistema de crowdsourcing e monitoramento climático voltado à previsão e preve
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=google&logoColor=white)
 
-<a href="https://github.com/Beto-Ribeiro/Prever">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Beto-Ribeiro&repo=Prever&theme=github_dark&hide_border=true" alt="Repositório Prever">
-</a>
+> Repositório privado — projeto em desenvolvimento ativo.
 
 ---
 
@@ -212,7 +219,7 @@ Aplicativo desenvolvido em FlutterFlow para conscientização e suporte ao trata
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 <a href="https://github.com/Beto-Ribeiro/EatWise-TCC">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Beto-Ribeiro&repo=EatWise-TCC&theme=github_dark&hide_border=true" alt="Repositório EatWise-TCC">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Beto-Ribeiro&repo=EatWise-TCC&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Repositório EatWise-TCC">
 </a>
 
 ---
@@ -228,29 +235,8 @@ Solução de software desenvolvida para a **Associação Somos do Bem** durante 
 ![Agile](https://img.shields.io/badge/Agile-000000?style=flat-square)
 
 <a href="https://github.com/Beto-Ribeiro/fic2026-fatectaubate-focus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Beto-Ribeiro&repo=fic2026-fatectaubate-focus&theme=github_dark&hide_border=true" alt="Repositório Somos do Bem - FIC 2026">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Beto-Ribeiro&repo=fic2026-fatectaubate-focus&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Repositório Somos do Bem - FIC 2026">
 </a>
-
----
-
-## Atividade e estatísticas
-
-<div align="center">
-
-<a href="https://github.com/Beto-Ribeiro">
-  <img src="https://ghchart.rshah.org/2F80ED/Beto-Ribeiro" alt="Contribuições do GitHub de Humberto Ribeiro" width="95%">
-</a>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Beto-Ribeiro&theme=github_dark" alt="Resumo do perfil no GitHub" width="95%">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Beto-Ribeiro&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="165" alt="Estatísticas do GitHub">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beto-Ribeiro&layout=compact&langs_count=8&theme=github_dark&hide_border=true" height="165" alt="Linguagens mais usadas">
-
-</div>
 
 ---
 
