@@ -1,10 +1,12 @@
 <div align="center">
 
-<a href="https://github.com/Beto-Ribeiro">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=48&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Humberto+Ribeiro;Software+Engineer;Product+Owner;Co-founder" alt="Humberto Ribeiro" />
-</a>
+# Humberto Ribeiro
+### Software Engineer · Product Owner · Co-founder @ Astrotech Systems
 
-### Desenvolvimento de software multiplataforma, integração de Inteligência Artificial e soluções ágeis para problemas reais.
+Desenvolvimento de software multiplataforma, integração de Inteligência Artificial e soluções ágeis para problemas reais.
+<a href="https://github.com/Beto-Ribeiro">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=48&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Humberto+Ribeiro;Software+Engineer;Product+Owner;Co-founder"/>
+</a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humberto-ribeiro-swe)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Beto-Ribeiro)
@@ -23,41 +25,89 @@ Como **Product Owner e Agilista**, lidero projetos que vão de monitoramento cli
 
 ---
 
-## Atividade no GitHub
+## Stack técnica
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Beto-Ribeiro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beto-Ribeiro&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Linguagens"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Beto-Ribeiro&theme=github-dark-blue&hide_border=true" alt="Estatísticas de Streak" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Beto-Ribeiro&theme=github-compact&hide_border=true&area=true" width="90%" alt="Gráfico de Atividades">
+<table>
+<tr>
+<th align="center">Área</th>
+<th align="center">Tecnologias</th>
+</tr>
+<tr>
+<td align="center"><b>Linguagens</b></td>
+<td align="center">TypeScript, JavaScript, Python, Dart, Java, C#, PHP</td>
+</tr>
+<tr>
+<td align="center"><b>Mobile</b></td>
+<td align="center">Flutter, React Native</td>
+</tr>
+<tr>
+<td align="center"><b>Web</b></td>
+<td align="center">React, Next.js, Vue.js, Node.js</td>
+</tr>
+<tr>
+<td align="center"><b>Backend & Dados</b></td>
+<td align="center">PostgreSQL, PostGIS, MySQL, Supabase, Firebase, Prisma</td>
+</tr>
+<tr>
+<td align="center"><b>IA</b></td>
+<td align="center">Google Gemini API, Claude, Computer Vision, Ollama, NotebookLM</td>
+</tr>
+<tr>
+<td align="center"><b>Produto & Processos</b></td>
+<td align="center">Scrum, Kanban, Jira, User Stories, Backlog Management</td>
+</tr>
+<tr>
+<td align="center"><b>Infra & Ferramentas</b></td>
+<td align="center">Docker, Git, REST APIs, Postman</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## Linguagens, Frameworks & Ferramentas
+## Ferramentas e plataformas
+
+**Linguagens & Frameworks**
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,dart,java,cs,php,react,nextjs,vue,flutter,nodejs,express,gcp,firebase,supabase,vercel,docker,git,figma,androidstudio,vscode&perline=11" alt="My Skills" />
-</a>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-<br><br>
+</div>
 
-*(Integrações Adicionais)*
-<br>
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+**Plataformas & Ferramentas**
+
+<div align="center">
+
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-2F80ED?style=for-the-badge&logo=flutter&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
 
@@ -165,9 +215,7 @@ Sistema de crowdsourcing e monitoramento climático voltado à previsão e preve
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=google&logoColor=white)
 
-<a href="https://github.com/Beto-Ribeiro/Prever">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Beto-Ribeiro&repo=Prever&theme=github_dark&hide_border=true" alt="Repositório Prever" />
-</a>
+> Repositório privado no momento — assim que você me passar o nome/URL, adiciono o card de estatísticas aqui.
 
 ---
 
@@ -182,12 +230,12 @@ Aplicativo voltado à reeducação e gestão alimentar inteligente, com acompanh
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 <a href="https://github.com/Beto-Ribeiro/EatWise-TCC">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Beto-Ribeiro&repo=EatWise-TCC&theme=github_dark&hide_border=true" alt="Repositório EatWise" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Beto-Ribeiro&repo=EatWise-TCC&theme=github_dark&hide_border=true" />
 </a>
 
 ---
 
-### Somos do Bem — Projeto FIC 2026 *(Em desenvolvimento)*
+### Somos do Bem — Projeto FIC 2026
 
 Design e estruturação de uma solução de software para a Associação Somos do Bem, desenvolvido durante o Fatec Innovation Challenge (FIC).
 
@@ -196,9 +244,26 @@ Design e estruturação de uma solução de software para a Associação Somos d
 ![Software Architecture](https://img.shields.io/badge/Software%20Architecture-2B3137?style=flat-square)
 ![Agile](https://img.shields.io/badge/Agile-000000?style=flat-square)
 
-<a href="https://github.com/Beto-Ribeiro/fic2026-fatectaubate-focus">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Beto-Ribeiro&repo=fic2026-fatectaubate-focus&theme=github_dark&hide_border=true" alt="Repositório Somos do Bem" />
-</a>
+> Repositório privado no momento — assim que você me passar o nome/URL, adiciono o card de estatísticas aqui.
+
+---
+
+## Atividade no GitHub
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Beto-Ribeiro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beto-Ribeiro&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Beto-Ribeiro&theme=github-dark-blue&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Beto-Ribeiro&theme=github-compact&hide_border=true&area=true" width="90%">
+
+</div>
 
 ---
 
