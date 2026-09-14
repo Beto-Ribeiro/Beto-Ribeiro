@@ -4,6 +4,7 @@
 ### Software Engineer · Product Owner · Co-founder @ Astrotech Systems
 
 Desenvolvimento de software multiplataforma, integração de Inteligência Artificial e soluções ágeis para problemas reais.
+<br>
 <a href="https://github.com/Beto-Ribeiro">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=48&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Humberto+Ribeiro;Software+Engineer;Product+Owner;Co-founder"/>
 </a>
