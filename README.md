@@ -7,7 +7,7 @@ Desenvolvimento de software multiplataforma, integração de Inteligência Artif
 
 
 <a href="https://github.com/Beto-Ribeiro">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=48&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Humberto+Ribeiro;Software+Engineer;Product+Owner;Co-founder"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=48&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Software+Engineer;Product+Owner;Co-founder"/>
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humberto-ribeiro-swe)
@@ -164,19 +164,19 @@ Auxiliar de Conformidade de Registro e Gestão. Condecorado com Honra ao Mérito
 <tr>
 <td width="33%" valign="top">
 
-**🤖 Automação**
+**Automação**
 Make, n8n — desenho e implementação de fluxos automatizados entre sistemas.
 
 </td>
 <td width="33%" valign="top">
 
-**🧠 Inteligência Artificial**
+**Inteligência Artificial**
 Google Gemini API, Claude, Computer Vision, Ollama, NotebookLM.
 
 </td>
 <td width="33%" valign="top">
 
-**📊 Dados**
+**Dados**
 PostgreSQL, PostGIS, Python (Pandas, Matplotlib), modelagem de dados.
 
 </td>
@@ -184,13 +184,13 @@ PostgreSQL, PostGIS, Python (Pandas, Matplotlib), modelagem de dados.
 <tr>
 <td width="33%" valign="top">
 
-**📱 Desenvolvimento Mobile**
+**Desenvolvimento Mobile**
 Flutter, React Native, FlutterFlow, Android Studio.
 
 </td>
 <td width="33%" valign="top">
 
-**🧭 Gestão de Projetos e Liderança**
+**Gestão de Projetos e Liderança**
 Scrum, Kanban, Product Ownership, liderança de squads e hackathons.
 
 </td>
