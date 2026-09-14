@@ -5,9 +5,8 @@
 
 Desenvolvimento de software multiplataforma, integração de Inteligência Artificial e soluções ágeis para problemas reais.
 
-
 <a href="https://github.com/Beto-Ribeiro">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=48&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Software+Engineer;Product+Owner;Co-founder"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=100&size=48&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Software+Engineer;Product+Owner;Co-founder"/>
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humberto-ribeiro-swe)
@@ -17,36 +16,37 @@ Desenvolvimento de software multiplataforma, integração de Inteligência Artif
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Taubaté, atuando como **Software Engineer e Co-founder na Astrotech Systems**. Foco em arquiteturas robustas e aplicações escaláveis, unindo desenvolvimento de código com gestão estratégica de produto.
+Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Taubaté, atuando como **Software Engineer e Co-founder na Astrotech Systems**. Foco em arquiteturas robustas e aplicações escaláveis, unindo desenvolvimento de software com gestão estratégica de produto.
 
 Disciplina e organização consolidadas durante o serviço no **Exército Brasileiro**, onde recebi a medalha de Honra ao Mérito Militar. Atualmente também atuo no suporte de TI (PROATI) pela SEDUC-SP.
 
-Como **Product Owner e Agilista**, lidero projetos que vão de monitoramento climático a tecnologia assistiva, aplicando metodologias ágeis e IA aplicada a problemas reais.
+Como **Product Owner e Agilista**, participo da condução de projetos que envolvem monitoramento climático, tecnologia assistiva, impacto social e Inteligência Artificial aplicada a problemas reais.
 
 ---
 
-## 🚀 Atividade no GitHub
+## Atividade no GitHub
 
 <div align="center">
 
-<!-- Galaga Contribution Graph -->
 <a href="https://github.com/Beto-Ribeiro">
-  <img src="https://raw.githubusercontent.com/Beto-Ribeiro/Beto-Ribeiro/pacman-output/galaga-contribution-graph-dark.svg?game=galaga" alt="Galaga Contribution Graph" width="95%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Beto-Ribeiro/Beto-Ribeiro/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Beto-Ribeiro/Beto-Ribeiro/output/galaga-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/Beto-Ribeiro/Beto-Ribeiro/output/galaga-contribution-graph.svg" alt="Gráfico de contribuições em estilo Galaga" width="95%">
+  </picture>
 </a>
 
-<p>
-  <sub>Minha atividade de commits transformada em um arcade no estilo <strong>Galaga</strong> 🚀</sub>
-</p>
+<p><sub>Minha atividade de commits representada em um arcade no estilo Galaga.</sub></p>
 
 </div>
 
 ---
 
-## 🛠️ Ferramentas e plataformas
+## Ferramentas e plataformas
 
-**Linguagens & Frameworks**
+**Linguagens e Frameworks**
 
 <div align="center">
 
@@ -66,7 +66,7 @@ Como **Product Owner e Agilista**, lidero projetos que vão de monitoramento cli
 
 </div>
 
-**Plataformas & Ferramentas**
+**Plataformas e Ferramentas**
 
 <div align="center">
 
@@ -89,13 +89,13 @@ Como **Product Owner e Agilista**, lidero projetos que vão de monitoramento cli
 
 ---
 
-## 💼 Experiência
+## Experiência
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Software Engineer & Co-founder**
+**Software Engineer & Co-founder**  
 *Astrotech Systems*
 
 Desenvolvimento e arquitetura de sistemas end-to-end, gestão de negócios B2B e contratos de parceria comercial.
@@ -103,28 +103,28 @@ Desenvolvimento e arquitetura de sistemas end-to-end, gestão de negócios B2B e
 </td>
 <td width="50%" valign="top">
 
-**Product Owner & Agilista**
+**Product Owner & Agilista**  
 *Múltiplos projetos*
 
-Gestão de backlog, mapeamento de user stories, sprints (Scrum/Kanban) e liderança de equipes em hackathons (ex: Venturus).
+Gestão de backlog, mapeamento de user stories, sprints (Scrum/Kanban) e liderança de equipes em projetos e hackathons.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**IT Support**
+**IT Support**  
 *PROATI / SEDUC-SP*
 
-Suporte técnico governamental, infraestrutura e manutenção de hardware/redes na Escola Estadual Eng. Urbano Alves.
+Suporte técnico governamental, infraestrutura e manutenção de hardware e redes na Escola Estadual Eng. Urbano Alves.
 
 </td>
 <td width="50%" valign="top">
 
-**Administração e Conformidade**
+**Administração e Conformidade**  
 *Exército Brasileiro*
 
-Auxiliar de Conformidade de Registro e Gestão. Condecorado com Honra ao Mérito Militar por excelência e disciplina.
+Auxiliar de Conformidade de Registro e Gestão. Condecorado com Honra ao Mérito Militar.
 
 </td>
 </tr>
@@ -132,43 +132,46 @@ Auxiliar de Conformidade de Registro e Gestão. Condecorado com Honra ao Mérito
 
 ---
 
-## 🧠 Áreas de conhecimento
+## Áreas de conhecimento
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**Automação**
+**Automação**  
 Make, n8n — desenho e implementação de fluxos automatizados entre sistemas.
 
 </td>
 <td width="33%" valign="top">
 
-**Inteligência Artificial**
-Google Gemini API, Claude, Computer Vision, Ollama, NotebookLM.
+**Inteligência Artificial**  
+Google Gemini API, Claude, Computer Vision, Ollama e NotebookLM.
 
 </td>
 <td width="33%" valign="top">
 
-**Dados**
-PostgreSQL, PostGIS, Python (Pandas, Matplotlib), modelagem de dados.
+**Dados**  
+PostgreSQL, PostGIS, Python, Pandas, Matplotlib e modelagem de dados.
 
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 
-**Desenvolvimento Mobile**
-Flutter, React Native, FlutterFlow, Android Studio.
+**Desenvolvimento Mobile**  
+Flutter, React Native, FlutterFlow e Android Studio.
 
 </td>
 <td width="33%" valign="top">
 
-**Gestão de Projetos e Liderança**
+**Gestão de Projetos e Liderança**  
 Scrum, Kanban, Product Ownership, liderança de squads e hackathons.
 
 </td>
 <td width="33%" valign="top">
+
+**Arquitetura e Integração**  
+APIs, integração entre serviços, modelagem de sistemas e definição de soluções técnicas.
 
 </td>
 </tr>
@@ -176,13 +179,13 @@ Scrum, Kanban, Product Ownership, liderança de squads e hackathons.
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
-### Prever (SMDN) — Plataforma de Monitoramento de Desastres Naturais
+### Prever — Plataforma de Monitoramento de Desastres Naturais
 
-Sistema de crowdsourcing e monitoramento climático voltado à previsão e prevenção de desastres naturais, com envio de relatos georreferenciados, visualização de ocorrências em mapa, acionamento de SOS e integração direta com dados do INMET e CEMADEN, além de validação de relatos via IA. Apresentado com destaque no SIRGTEC.
+Sistema de crowdsourcing e monitoramento climático voltado à previsão e prevenção de desastres naturais, com envio de relatos georreferenciados, visualização de ocorrências em mapa, acionamento de SOS e integração com dados do INMET e CEMADEN, além de validação de relatos com IA.
 
-**Meu papel:** Product Owner e Scrum Master — condução do backlog, planejamento de sprints e organização da equipe — além de desenvolvimento mobile, arquitetura do banco de dados, integração de IA para validação de dados e mapeamento geoespacial com PostGIS.
+**Meu papel:** Product Owner e Scrum Master, conduzindo backlog, planejamento de sprints e organização da equipe. Também atuei no desenvolvimento mobile, arquitetura do banco de dados, integração de IA e mapeamento geoespacial com PostGIS.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -191,89 +194,85 @@ Sistema de crowdsourcing e monitoramento climático voltado à previsão e preve
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=google&logoColor=white)
 
-> Repositório privado no momento — assim que você me passar o nome/URL, adiciono o card de estatísticas aqui.
+<a href="https://github.com/Beto-Ribeiro/Prever">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Beto-Ribeiro&repo=Prever&theme=github_dark&hide_border=true" alt="Repositório Prever">
+</a>
 
 ---
 
-### EatWise — Gestão Alimentar
+### EatWise — Aplicativo de Apoio ao Tratamento de Transtornos Alimentares
 
-Aplicativo voltado à reeducação e gestão alimentar inteligente, com acompanhamento de hábitos e sugestões personalizadas. Apresentado em eventos acadêmicos de inovação como CICTED e HITT.
+Aplicativo desenvolvido em FlutterFlow para conscientização e suporte ao tratamento de transtornos alimentares, com conteúdos educativos, registros pessoais, diário alimentar, acompanhamento de sentimentos e progresso e conexão com profissionais. A solução foi desenvolvida como projeto acadêmico e não substitui acompanhamento profissional.
 
-**Meu papel:** desenvolvimento mobile completo (lógica, telas e fluxo do app) e modelagem dos dados em SQL/JSON.
+**Meu papel:** desenvolvimento mobile, construção das telas e fluxos, lógica da aplicação e modelagem dos dados em SQL e JSON.
 
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-2F80ED?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 <a href="https://github.com/Beto-Ribeiro/EatWise-TCC">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Beto-Ribeiro&repo=EatWise-TCC&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Beto-Ribeiro&repo=EatWise-TCC&theme=github_dark&hide_border=true" alt="Repositório EatWise-TCC">
 </a>
 
 ---
 
 ### Somos do Bem — Projeto FIC 2026
 
-Design e estruturação de uma solução de software para a Associação Somos do Bem, desenvolvido durante o Fatec Innovation Challenge (FIC).
+Solução de software desenvolvida para a **Associação Somos do Bem** durante o **Fatec Innovation Challenge (FIC) 2026**, com foco em estruturação do produto, levantamento de requisitos e organização da solução tecnológica para uma necessidade real do terceiro setor.
 
-**Meu papel:** líder da equipe Focus — levantamento e documentação de requisitos, arquitetura de repositórios e diagramas de solução, proposta de impacto social e gestão do time.
+**Meu papel:** líder da equipe **Focus**, responsável pelo levantamento e documentação de requisitos, organização do backlog, arquitetura da solução, estruturação dos repositórios e diagramas, definição de direcionamentos técnicos e gestão do time.
 
 ![Software Architecture](https://img.shields.io/badge/Software%20Architecture-2B3137?style=flat-square)
+![Requirements](https://img.shields.io/badge/Requirements-2F80ED?style=flat-square)
 ![Agile](https://img.shields.io/badge/Agile-000000?style=flat-square)
 
-> Repositório privado no momento — assim que você me passar o nome/URL, adiciono o card de estatísticas aqui.
-
----
-
-## 📊 Atividade e estatísticas
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Beto-Ribeiro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beto-Ribeiro&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Beto-Ribeiro&theme=github-dark-blue&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Beto-Ribeiro&theme=github-compact&hide_border=true&area=true" width="90%" alt="GitHub Activity Graph">
-
-</div>
-
----
-
-## 🏆 Certificações
-
-<div align="center">
-
-<p>
-  <strong>Credenciais verificáveis pelo Credly</strong>
-</p>
-
-<a href="https://www.credly.com/badges/2eba0214-9f68-4d67-bf60-64ad18109e03/public_url"><img src="https://img.shields.io/badge/Credly-Badge%201-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge 1"></a>
-<a href="https://www.credly.com/badges/04fc3309-79e5-4494-b323-906d8245abd5/public_url"><img src="https://img.shields.io/badge/Credly-Badge%202-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge 2"></a>
-<a href="https://www.credly.com/badges/c4349e9d-54f8-4a28-9129-a463b0ae9aed/public_url"><img src="https://img.shields.io/badge/Credly-Badge%203-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge 3"></a>
-<a href="https://www.credly.com/badges/2fcc7b8c-cc25-401e-9a8f-9d95f97a7363/public_url"><img src="https://img.shields.io/badge/Credly-Badge%204-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge 4"></a>
-<a href="https://www.credly.com/badges/b905b050-714b-4f1a-9267-5942d8ed7cb7/public_url"><img src="https://img.shields.io/badge/Credly-Badge%205-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge 5"></a>
-<a href="https://www.credly.com/badges/ce819704-57da-4cbb-85c6-9dc0aa380161/public_url"><img src="https://img.shields.io/badge/Credly-Badge%206-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge 6"></a>
-
-<a href="https://www.credly.com/badges/e7916915-25b6-4dba-95b1-0070acaebb6e/public_url"><img src="https://img.shields.io/badge/Credly-Badge%207-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge 7"></a>
-<a href="https://www.credly.com/badges/d06db7c7-3f3a-4959-aaa5-62cba2b7b09e/public_url"><img src="https://img.shields.io/badge/Credly-Badge%208-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge 8"></a>
-<a href="https://www.credly.com/badges/f86f398a-20c5-42d2-974d-59daaa715585/public_url"><img src="https://img.shields.io/badge/Credly-Badge%209-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge 9"></a>
-<a href="https://www.credly.com/badges/47a73db2-3644-4f16-8144-de0a926180e9/public_url"><img src="https://img.shields.io/badge/Credly-Badge%2010-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge 10"></a>
-<a href="https://www.credly.com/badges/3ab1070c-d85b-41a6-970c-59300e0fb98b/public_url"><img src="https://img.shields.io/badge/Credly-Badge%2011-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge 11"></a>
-<br><br>
-
-<a href="https://www.credly.com/users/humberto-neto.d384f68a">
-  <img src="https://img.shields.io/badge/Ver%20todas%20as%20credenciais%20no%20Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Ver todas as credenciais no Credly">
+<a href="https://github.com/Beto-Ribeiro/fic2026-fatectaubate-focus">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Beto-Ribeiro&repo=fic2026-fatectaubate-focus&theme=github_dark&hide_border=true" alt="Repositório Somos do Bem - FIC 2026">
 </a>
 
+---
+
+## Atividade e estatísticas
+
+<div align="center">
+
+<a href="https://github.com/Beto-Ribeiro">
+  <img src="https://ghchart.rshah.org/2F80ED/Beto-Ribeiro" alt="Contribuições do GitHub de Humberto Ribeiro" width="95%">
+</a>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Beto-Ribeiro&theme=github_dark" alt="Resumo do perfil no GitHub" width="95%">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Beto-Ribeiro&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="165" alt="Estatísticas do GitHub">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beto-Ribeiro&layout=compact&langs_count=8&theme=github_dark&hide_border=true" height="165" alt="Linguagens mais usadas">
+
 </div>
 
 ---
 
-## 📫 Contato
+## Certificações
+
+<div align="center">
+
+<a href="https://www.credly.com/users/humberto-neto.d384f68a">
+  <img src="https://img.shields.io/badge/Credly-Ver%20meus%20badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Ver badges no Credly">
+</a>
+
+<a href="https://cursos.alura.com.br/user/humbertoribeironeto93">
+  <img src="https://img.shields.io/badge/Alura-Ver%20meu%20perfil-0B5CAB?style=for-the-badge&logo=alura&logoColor=white" alt="Ver perfil na Alura">
+</a>
+
+<p><sub>Certificações e credenciais disponíveis nos perfis públicos acima.</sub></p>
+
+</div>
+
+---
+
+## Contato
 
 <div align="center">
 
