@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- ════════════════════════════════════════════════════════════
-     NOME — Grande e chamativo (Fix 5)
-     ════════════════════════════════════════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=68&duration=3500&pause=99999&color=2F80ED&center=true&vCenter=true&width=1000&lines=Humberto+Ribeiro" alt="Humberto Ribeiro" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=65&duration=3500&pause=99999&color=2F80ED&center=true&vCenter=true&width=1000&lines=Humberto+Ribeiro" alt="Humberto Ribeiro" />
 
 </div>
 
