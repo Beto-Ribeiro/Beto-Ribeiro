@@ -61,7 +61,7 @@
 
 <!-- Frase com animacao de digitacao -- Djonga -->
 <a href="https://open.spotify.com/artist/0cGUm45nv7Z6M7ntcfaJuu">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&style=italic&size=28&duration=3500&pause=2500&color=FFFFFF&center=false&vCenter=true&multiline=true&width=460&height=280&lines=Quem+tem+f%C3%A9+n%C3%A3o+precisa;de+sorte%2C+e+quem+tem;for%C3%A7a+n%C3%A3o+precisa;de+f%C3%B4lego.;%E2%80%94+Djonga" alt="Frase Djonga" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&style=italic&size=28&duration=1000&pause=200&color=FFFFFF&center=false&vCenter=true&multiline=true&width=460&height=280&lines=Quem+tem+f%C3%A9+n%C3%A3o+precisa;de+sorte%2C+e+quem+tem;for%C3%A7a+n%C3%A3o+precisa;de+f%C3%B4lego.;%E2%80%94+Djonga" alt="Frase Djonga" />
 </a>
 
 </td>
@@ -115,6 +115,8 @@ Como **Product Owner e Agilista**, participo da condução de projetos que envol
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=ts,js,py,dart,java,cs,php,react,nextjs,vue,flutter,nodejs,express,pandas&perline=7" alt="Linguagens e Frameworks" />
+<br/>
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" />
 
 </div>
 
