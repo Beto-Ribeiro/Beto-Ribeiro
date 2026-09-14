@@ -17,7 +17,7 @@ Desenvolvimento de software multiplataforma, integração de Inteligência Artif
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
 Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Taubaté, atuando como **Software Engineer e Co-founder na Astrotech Systems**. Foco em arquiteturas robustas e aplicações escaláveis, unindo desenvolvimento de código com gestão estratégica de produto.
 
@@ -27,21 +27,24 @@ Como **Product Owner e Agilista**, lidero projetos que vão de monitoramento cli
 
 ---
 
-## Atividade no Github
+## 🚀 Atividade no GitHub
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Beto-Ribeiro/Beto-Ribeiro/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Beto-Ribeiro/Beto-Ribeiro/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Beto-Ribeiro/Beto-Ribeiro/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
+<div align="center">
 
-###
+<!-- Galaga Contribution Graph -->
+<a href="https://github.com/Beto-Ribeiro">
+  <img src="https://raw.githubusercontent.com/Beto-Ribeiro/Beto-Ribeiro/pacman-output/galaga-contribution-graph-dark.svg?game=galaga" alt="Galaga Contribution Graph" width="95%">
+</a>
 
-###
+<p>
+  <sub>Minha atividade de commits transformada em um arcade no estilo <strong>Galaga</strong> 🚀</sub>
+</p>
+
+</div>
 
 ---
 
-## Ferramentas e plataformas
+## 🛠️ Ferramentas e plataformas
 
 **Linguagens & Frameworks**
 
@@ -86,7 +89,7 @@ Como **Product Owner e Agilista**, lidero projetos que vão de monitoramento cli
 
 ---
 
-## Experiência
+## 💼 Experiência
 
 <table>
 <tr>
@@ -129,7 +132,7 @@ Auxiliar de Conformidade de Registro e Gestão. Condecorado com Honra ao Mérito
 
 ---
 
-## Áreas de conhecimento
+## 🧠 Áreas de conhecimento
 
 <table>
 <tr>
@@ -173,7 +176,7 @@ Scrum, Kanban, Product Ownership, liderança de squads e hackathons.
 
 ---
 
-## Projetos em destaque
+## 🚀 Projetos em destaque
 
 ### Prever (SMDN) — Plataforma de Monitoramento de Desastres Naturais
 
@@ -221,50 +224,56 @@ Design e estruturação de uma solução de software para a Associação Somos d
 
 ---
 
-## Atividade no GitHub
+## 📊 Atividade e estatísticas
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Beto-Ribeiro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Beto-Ribeiro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beto-Ribeiro&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 
 <br>
 
 <img src="https://streak-stats.demolab.com?user=Beto-Ribeiro&theme=github-dark-blue&hide_border=true" />
 
-<br>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Beto-Ribeiro&theme=github-compact&hide_border=true&area=true" width="90%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Beto-Ribeiro&theme=github-compact&hide_border=true&area=true" width="90%" alt="GitHub Activity Graph">
 
 </div>
 
 ---
 
-## Certificações
+## 🏆 Certificações
 
 <div align="center">
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2eba0214-9f68-4d67-bf60-64ad18109e03" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>  
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="04fc3309-79e5-4494-b323-906d8245abd5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>  
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c4349e9d-54f8-4a28-9129-a463b0ae9aed" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>  
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2fcc7b8c-cc25-401e-9a8f-9d95f97a7363" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>  
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b905b050-714b-4f1a-9267-5942d8ed7cb7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>  
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ce819704-57da-4cbb-85c6-9dc0aa380161" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>  
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e7916915-25b6-4dba-95b1-0070acaebb6e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>  
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d06db7c7-3f3a-4959-aaa5-62cba2b7b09e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>  
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f86f398a-20c5-42d2-974d-59daaa715585" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>  
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="47a73db2-3644-4f16-8144-de0a926180e9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>  
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3ab1070c-d85b-41a6-970c-59300e0fb98b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<p>
+  <strong>Credenciais verificáveis pelo Credly</strong>
+</p>
 
-<br>
+<a href="https://www.credly.com/badges/2eba0214-9f68-4d67-bf60-64ad18109e03/public_url"><img src="https://img.shields.io/badge/Credly-Badge%201-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge 1"></a>
+<a href="https://www.credly.com/badges/04fc3309-79e5-4494-b323-906d8245abd5/public_url"><img src="https://img.shields.io/badge/Credly-Badge%202-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge 2"></a>
+<a href="https://www.credly.com/badges/c4349e9d-54f8-4a28-9129-a463b0ae9aed/public_url"><img src="https://img.shields.io/badge/Credly-Badge%203-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge 3"></a>
+<a href="https://www.credly.com/badges/2fcc7b8c-cc25-401e-9a8f-9d95f97a7363/public_url"><img src="https://img.shields.io/badge/Credly-Badge%204-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge 4"></a>
+<a href="https://www.credly.com/badges/b905b050-714b-4f1a-9267-5942d8ed7cb7/public_url"><img src="https://img.shields.io/badge/Credly-Badge%205-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge 5"></a>
+<a href="https://www.credly.com/badges/ce819704-57da-4cbb-85c6-9dc0aa380161/public_url"><img src="https://img.shields.io/badge/Credly-Badge%206-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge 6"></a>
 
-[![Credly](https://img.shields.io/badge/Ver%20credenciais%20no%20Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/humberto-neto.d384f68a)
+<a href="https://www.credly.com/badges/e7916915-25b6-4dba-95b1-0070acaebb6e/public_url"><img src="https://img.shields.io/badge/Credly-Badge%207-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge 7"></a>
+<a href="https://www.credly.com/badges/d06db7c7-3f3a-4959-aaa5-62cba2b7b09e/public_url"><img src="https://img.shields.io/badge/Credly-Badge%208-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge 8"></a>
+<a href="https://www.credly.com/badges/f86f398a-20c5-42d2-974d-59daaa715585/public_url"><img src="https://img.shields.io/badge/Credly-Badge%209-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge 9"></a>
+<a href="https://www.credly.com/badges/47a73db2-3644-4f16-8144-de0a926180e9/public_url"><img src="https://img.shields.io/badge/Credly-Badge%2010-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge 10"></a>
+<a href="https://www.credly.com/badges/3ab1070c-d85b-41a6-970c-59300e0fb98b/public_url"><img src="https://img.shields.io/badge/Credly-Badge%2011-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge 11"></a>
+<br><br>
+
+<a href="https://www.credly.com/users/humberto-neto.d384f68a">
+  <img src="https://img.shields.io/badge/Ver%20todas%20as%20credenciais%20no%20Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Ver todas as credenciais no Credly">
+</a>
 
 </div>
 
 ---
 
-## Contato
+## 📫 Contato
 
 <div align="center">
 
