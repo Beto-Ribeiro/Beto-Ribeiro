@@ -39,9 +39,8 @@
 </td>
 <td width="45%" valign="middle" align="center">
 
-<!-- Fix 5: Dashboard interativo com stats do GitHub (Total Stars, Commits, PRs, Issues, Contributed to) -->
 <a href="https://github.com/Beto-Ribeiro">
-  <img src="https://github-readme-stats.vercel.app/api?username=Beto-Ribeiro&show_icons=true&theme=github_dark&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Beto-Ribeiro&theme=github_dark" alt="GitHub Stats" width="100%" />
 </a>
 
 <a href="https://github.com/Beto-Ribeiro">
@@ -56,11 +55,25 @@
 
 ## Ouvindo no Spotify
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="middle" align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31sjtv36nqxrdj3hokpb3zueekhy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=2f80ed&bar_color_cover=true)](https://open.spotify.com/user/31sjtv36nqxrdj3hokpb3zueekhy)
+<!-- Frase com animacao de digitacao -- Djonga -->
+<a href="https://open.spotify.com/artist/0cGUm45nv7Z6M7ntcfaJuu">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&style=italic&size=22&duration=6000&pause=4000&color=2F80ED&center=true&vCenter=true&multiline=true&width=460&height=280&lines=Quem+tem+f%C3%A9+n%C3%A3o+precisa;de+sorte%2C+e+quem+tem;for%C3%A7a+n%C3%A3o+precisa;de+f%C3%B4lego.;%E2%80%94+Djonga" alt="Frase Djonga" />
+</a>
 
-</div>
+</td>
+<td width="50%" valign="middle" align="center">
+
+<a href="https://open.spotify.com/user/31sjtv36nqxrdj3hokpb3zueekhy">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sjtv36nqxrdj3hokpb3zueekhy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=2f80ed&bar_color_cover=true" alt="Spotify" width="55%" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -235,7 +248,9 @@ Sistema de crowdsourcing e monitoramento climático voltado à previsão e preve
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=google&logoColor=white)
 
-> Repositório privado — projeto em desenvolvimento ativo.
+<a href="https://github.com/Beto-Ribeiro/Prever">
+  <img src="https://gh-card.dev/repos/Beto-Ribeiro/Prever.svg?theme=dark&fullname=1" alt="Repositorio Prever" />
+</a>
 
 ---
 
@@ -250,9 +265,8 @@ Aplicativo desenvolvido em FlutterFlow para conscientização e suporte ao trata
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<!-- Fix 4: Removido cache_seconds que causava timeouts; URL limpa e direta -->
 <a href="https://github.com/Beto-Ribeiro/EatWise-TCC">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Beto-Ribeiro&repo=EatWise-TCC&theme=github_dark&hide_border=true&show_owner=true" alt="Repositório EatWise-TCC">
+  <img src="https://gh-card.dev/repos/Beto-Ribeiro/EatWise-TCC.svg?theme=dark&fullname=1" alt="Repositorio EatWise-TCC" />
 </a>
 
 ---
@@ -267,9 +281,8 @@ Solução de software desenvolvida para a **Associação Somos do Bem** durante 
 ![Requirements](https://img.shields.io/badge/Requirements-2F80ED?style=flat-square)
 ![Agile](https://img.shields.io/badge/Agile-000000?style=flat-square)
 
-<!-- Fix 4: Removido cache_seconds que causava timeouts; URL limpa e direta -->
 <a href="https://github.com/Beto-Ribeiro/fic2026-fatectaubate-focus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Beto-Ribeiro&repo=fic2026-fatectaubate-focus&theme=github_dark&hide_border=true&show_owner=true" alt="Repositório Somos do Bem - FIC 2026">
+  <img src="https://gh-card.dev/repos/Beto-Ribeiro/fic2026-fatectaubate-focus.svg?theme=dark&fullname=1" alt="Repositorio FIC 2026" />
 </a>
 
 ---
