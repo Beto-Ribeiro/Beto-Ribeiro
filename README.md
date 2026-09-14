@@ -61,7 +61,7 @@
 
 <!-- Frase com animacao de digitacao -- Djonga -->
 <a href="https://open.spotify.com/artist/0cGUm45nv7Z6M7ntcfaJuu">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&style=italic&size=22&duration=6000&pause=4000&color=2F80ED&center=true&vCenter=true&multiline=true&width=460&height=280&lines=Quem+tem+f%C3%A9+n%C3%A3o+precisa;de+sorte%2C+e+quem+tem;for%C3%A7a+n%C3%A3o+precisa;de+f%C3%B4lego.;%E2%80%94+Djonga" alt="Frase Djonga" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&style=italic&size=28&duration=3500&pause=2500&color=FFFFFF&center=false&vCenter=true&multiline=true&width=460&height=280&lines=Quem+tem+f%C3%A9+n%C3%A3o+precisa;de+sorte%2C+e+quem+tem;for%C3%A7a+n%C3%A3o+precisa;de+f%C3%B4lego.;%E2%80%94+Djonga" alt="Frase Djonga" />
 </a>
 
 </td>
@@ -114,7 +114,7 @@ Como **Product Owner e Agilista**, participo da condução de projetos que envol
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,dart,java,cs,php,react,nextjs,vue,flutter,nodejs,express&perline=7" alt="Linguagens e Frameworks" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,dart,java,cs,php,react,nextjs,vue,flutter,nodejs,express,pandas&perline=7" alt="Linguagens e Frameworks" />
 
 </div>
 
@@ -248,9 +248,7 @@ Sistema de crowdsourcing e monitoramento climático voltado à previsão e preve
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=google&logoColor=white)
 
-<a href="https://github.com/Beto-Ribeiro/Prever">
-  <img src="https://gh-card.dev/repos/Beto-Ribeiro/Prever.svg?theme=dark&fullname=1" alt="Repositorio Prever" />
-</a>
+> Repositorio privado — o card de estatisticas nao e exibido para repositorios privados.
 
 ---
 
@@ -265,9 +263,13 @@ Aplicativo desenvolvido em FlutterFlow para conscientização e suporte ao trata
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<a href="https://github.com/Beto-Ribeiro/EatWise-TCC">
-  <img src="https://gh-card.dev/repos/Beto-Ribeiro/EatWise-TCC.svg?theme=dark&fullname=1" alt="Repositorio EatWise-TCC" />
-</a>
+<a href="https://github.com/Beto-Ribeiro/EatWise-TCC"><b>Beto-Ribeiro / EatWise-TCC</b></a>
+
+![Stars](https://img.shields.io/github/stars/Beto-Ribeiro/EatWise-TCC?style=flat-square&logo=github&color=FFD700&label=Stars)
+![Forks](https://img.shields.io/github/forks/Beto-Ribeiro/EatWise-TCC?style=flat-square&color=2F80ED&label=Forks)
+![Watchers](https://img.shields.io/github/watchers/Beto-Ribeiro/EatWise-TCC?style=flat-square&color=2F80ED&label=Watching)
+![Last Commit](https://img.shields.io/github/last-commit/Beto-Ribeiro/EatWise-TCC?style=flat-square&color=2F80ED&label=Ultimo+Commit)
+![Top Language](https://img.shields.io/github/languages/top/Beto-Ribeiro/EatWise-TCC?style=flat-square&color=3776AB)
 
 ---
 
@@ -281,9 +283,13 @@ Solução de software desenvolvida para a **Associação Somos do Bem** durante 
 ![Requirements](https://img.shields.io/badge/Requirements-2F80ED?style=flat-square)
 ![Agile](https://img.shields.io/badge/Agile-000000?style=flat-square)
 
-<a href="https://github.com/Beto-Ribeiro/fic2026-fatectaubate-focus">
-  <img src="https://gh-card.dev/repos/Beto-Ribeiro/fic2026-fatectaubate-focus.svg?theme=dark&fullname=1" alt="Repositorio FIC 2026" />
-</a>
+<a href="https://github.com/Beto-Ribeiro/fic2026-fatectaubate-focus"><b>Beto-Ribeiro / fic2026-fatectaubate-focus</b></a>
+
+![Stars](https://img.shields.io/github/stars/Beto-Ribeiro/fic2026-fatectaubate-focus?style=flat-square&logo=github&color=FFD700&label=Stars)
+![Forks](https://img.shields.io/github/forks/Beto-Ribeiro/fic2026-fatectaubate-focus?style=flat-square&color=2F80ED&label=Forks)
+![Watchers](https://img.shields.io/github/watchers/Beto-Ribeiro/fic2026-fatectaubate-focus?style=flat-square&color=2F80ED&label=Watching)
+![Last Commit](https://img.shields.io/github/last-commit/Beto-Ribeiro/fic2026-fatectaubate-focus?style=flat-square&color=2F80ED&label=Ultimo+Commit)
+![Top Language](https://img.shields.io/github/languages/top/Beto-Ribeiro/fic2026-fatectaubate-focus?style=flat-square&color=3776AB)
 
 ---
 
