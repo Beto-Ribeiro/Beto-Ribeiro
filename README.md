@@ -83,7 +83,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Taubaté, atuan
 
 Disciplina e organização consolidadas durante o serviço no **Exército Brasileiro**, onde recebi a medalha de Honra ao Mérito Militar. Atualmente também atuo no suporte de TI (PROATI) pela SEDUC-SP.
 
-Como **Product Owner e Agilista**, participo da condução de projetos que envolvem monitoramento climático, tecnologia assistiva, impacto social e Inteligência Artificial aplicada a problemas reais.
+Como **Product Owner e Agilista**, participo da condução de projetos que envolvem monitoramento climático, impacto social e Inteligência Artificial aplicada a problemas reais.
 
 ---
 
